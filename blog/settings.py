@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ['b801b31df957443fa2d6605807f5594d.vfs.cloud9.us-east-1.amazonaws.com',
-                    'blog-test-rasquin-app.herokuapp.com/']
+                    'blog-test-rasquin-app.herokuapp.com']
 
 
 # Application definition
